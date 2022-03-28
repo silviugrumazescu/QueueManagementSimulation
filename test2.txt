@@ -1,0 +1,465 @@
+Simulation started
+Time: 0
+Clienti in asteptare:  (1,5,5) (2,19,3) (3,5,5) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (17,2,2) (18,10,4) (19,5,2) (20,28,5) (21,11,4) (22,3,4) (23,8,2) (24,35,6) (25,32,5) (26,3,3) (27,27,1) (28,25,3) (29,11,4) (30,4,2) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (43,2,4) (44,17,3) (45,2,5) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+Time: 1
+Clienti in asteptare:  (1,5,5) (2,19,3) (3,5,5) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (17,2,2) (18,10,4) (19,5,2) (20,28,5) (21,11,4) (22,3,4) (23,8,2) (24,35,6) (25,32,5) (26,3,3) (27,27,1) (28,25,3) (29,11,4) (30,4,2) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (43,2,4) (44,17,3) (45,2,5) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+Time: 2
+Clienti in asteptare:  (1,5,5) (2,19,3) (3,5,5) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (19,5,2) (20,28,5) (21,11,4) (22,3,4) (23,8,2) (24,35,6) (25,32,5) (26,3,3) (27,27,1) (28,25,3) (29,11,4) (30,4,2) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 17  Timp de finalizare: 4
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 43  Timp de finalizare: 6
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 45  Timp de finalizare: 7
+Time: 3
+Clienti in asteptare:  (1,5,5) (2,19,3) (3,5,5) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (19,5,2) (20,28,5) (21,11,4) (23,8,2) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (30,4,2) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 17  Timp de finalizare: 4
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 43  Timp de finalizare: 6
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 45  Timp de finalizare: 7
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 22  Timp de finalizare: 7
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 26  Timp de finalizare: 6
+Time: 4
+Clienti in asteptare:  (1,5,5) (2,19,3) (3,5,5) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (19,5,2) (20,28,5) (21,11,4) (23,8,2) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 30  Timp de finalizare: 6
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 43  Timp de finalizare: 6
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 45  Timp de finalizare: 7
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 22  Timp de finalizare: 7
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 26  Timp de finalizare: 6
+Time: 5
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (20,28,5) (21,11,4) (23,8,2) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (41,6,1) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada:  (1,5,5)
+      In curs de procesare: 30  Timp de finalizare: 6
+   Coada 2      Asteptand la coada:  (3,5,5)
+      In curs de procesare: 43  Timp de finalizare: 6
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 45  Timp de finalizare: 7
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 22  Timp de finalizare: 7
+   Coada 5      Asteptand la coada:  (19,5,2)
+      In curs de procesare: 26  Timp de finalizare: 6
+Time: 6
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (11,7,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (20,28,5) (21,11,4) (23,8,2) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (32,7,4) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 11
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 11
+   Coada 3      Asteptand la coada:  (41,6,1)
+      In curs de procesare: 45  Timp de finalizare: 7
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 22  Timp de finalizare: 7
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 19  Timp de finalizare: 8
+Time: 7
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (20,28,5) (21,11,4) (23,8,2) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (48,8,5) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 11
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 11
+   Coada 3      Asteptand la coada:  (32,7,4)
+      In curs de procesare: 41  Timp de finalizare: 8
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 11  Timp de finalizare: 11
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 19  Timp de finalizare: 8
+Time: 8
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (20,28,5) (21,11,4) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 11
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 11
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 32  Timp de finalizare: 12
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 11  Timp de finalizare: 11
+   Coada 5      Asteptand la coada:  (48,8,5)
+      In curs de procesare: 23  Timp de finalizare: 10
+Time: 9
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (18,10,4) (20,28,5) (21,11,4) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 11
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 11
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 32  Timp de finalizare: 12
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 11  Timp de finalizare: 11
+   Coada 5      Asteptand la coada:  (48,8,5)
+      In curs de procesare: 23  Timp de finalizare: 10
+Time: 10
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (21,11,4) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (29,11,4) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3) (50,11,1)
+   Coada 1      Asteptand la coada:  (18,10,4)
+      In curs de procesare: 1  Timp de finalizare: 11
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 11
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 32  Timp de finalizare: 12
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 11  Timp de finalizare: 11
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 48  Timp de finalizare: 15
+Time: 11
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (9,12,4) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 18  Timp de finalizare: 15
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 21  Timp de finalizare: 15
+   Coada 3      Asteptand la coada:  (50,11,1)
+      In curs de procesare: 32  Timp de finalizare: 12
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 29  Timp de finalizare: 15
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 48  Timp de finalizare: 15
+Time: 12
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 18  Timp de finalizare: 15
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 21  Timp de finalizare: 15
+   Coada 3      Asteptand la coada:  (9,12,4)
+      In curs de procesare: 50  Timp de finalizare: 13
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 29  Timp de finalizare: 15
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 48  Timp de finalizare: 15
+Time: 13
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 18  Timp de finalizare: 15
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 21  Timp de finalizare: 15
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 9  Timp de finalizare: 17
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 29  Timp de finalizare: 15
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 48  Timp de finalizare: 15
+Time: 14
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (37,15,5) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 18  Timp de finalizare: 15
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 21  Timp de finalizare: 15
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 9  Timp de finalizare: 17
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 29  Timp de finalizare: 15
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 48  Timp de finalizare: 15
+Time: 15
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (40,16,3) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 37  Timp de finalizare: 20
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 9  Timp de finalizare: 17
+Time: 16
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (15,17,1) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (44,17,3) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 37  Timp de finalizare: 20
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 40  Timp de finalizare: 19
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 9  Timp de finalizare: 17
+Time: 17
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 37  Timp de finalizare: 20
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 40  Timp de finalizare: 19
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 15  Timp de finalizare: 18
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 44  Timp de finalizare: 20
+Time: 18
+Clienti in asteptare:  (2,19,3) (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (34,19,5) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 37  Timp de finalizare: 20
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 40  Timp de finalizare: 19
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 44  Timp de finalizare: 20
+Time: 19
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (13,20,4) (14,22,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 37  Timp de finalizare: 20
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 22
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 34  Timp de finalizare: 24
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 44  Timp de finalizare: 20
+Time: 20
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (10,21,4) (12,25,4) (14,22,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 13  Timp de finalizare: 24
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 22
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 34  Timp de finalizare: 24
+Time: 21
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (12,25,4) (14,22,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (31,22,1) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 13  Timp de finalizare: 24
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 22
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 34  Timp de finalizare: 24
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 10  Timp de finalizare: 25
+Time: 22
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (12,25,4) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 13  Timp de finalizare: 24
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 34  Timp de finalizare: 24
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 10  Timp de finalizare: 25
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 31  Timp de finalizare: 23
+Time: 23
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (12,25,4) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 13  Timp de finalizare: 24
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 34  Timp de finalizare: 24
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 10  Timp de finalizare: 25
+Time: 24
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (12,25,4) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (28,25,3) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 10  Timp de finalizare: 25
+Time: 25
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 12  Timp de finalizare: 29
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 28  Timp de finalizare: 28
+Time: 26
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (7,27,5) (8,31,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (27,27,1) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 12  Timp de finalizare: 29
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 28  Timp de finalizare: 28
+Time: 27
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (8,31,6) (16,33,5) (20,28,5) (24,35,6) (25,32,5) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (39,28,4) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 12  Timp de finalizare: 29
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 14  Timp de finalizare: 28
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 28  Timp de finalizare: 28
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 7  Timp de finalizare: 32
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 27  Timp de finalizare: 28
+Time: 28
+Clienti in asteptare:  (4,32,4) (5,30,2) (6,29,4) (8,31,6) (16,33,5) (24,35,6) (25,32,5) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 12  Timp de finalizare: 29
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 20  Timp de finalizare: 33
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 39  Timp de finalizare: 32
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 7  Timp de finalizare: 32
+Time: 29
+Clienti in asteptare:  (4,32,4) (5,30,2) (8,31,6) (16,33,5) (24,35,6) (25,32,5) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 6  Timp de finalizare: 33
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 20  Timp de finalizare: 33
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 39  Timp de finalizare: 32
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 7  Timp de finalizare: 32
+Time: 30
+Clienti in asteptare:  (4,32,4) (8,31,6) (16,33,5) (24,35,6) (25,32,5) (33,35,1) (35,36,1) (36,31,6) (38,31,6) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 6  Timp de finalizare: 33
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 20  Timp de finalizare: 33
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 39  Timp de finalizare: 32
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 7  Timp de finalizare: 32
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 5  Timp de finalizare: 32
+Time: 31
+Clienti in asteptare:  (4,32,4) (16,33,5) (24,35,6) (25,32,5) (33,35,1) (35,36,1) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 6  Timp de finalizare: 33
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 20  Timp de finalizare: 33
+   Coada 3      Asteptand la coada:  (8,31,6)
+      In curs de procesare: 39  Timp de finalizare: 32
+   Coada 4      Asteptand la coada:  (36,31,6)
+      In curs de procesare: 7  Timp de finalizare: 32
+   Coada 5      Asteptand la coada:  (38,31,6)
+      In curs de procesare: 5  Timp de finalizare: 32
+Time: 32
+Clienti in asteptare:  (16,33,5) (24,35,6) (33,35,1) (35,36,1) (42,35,4) (46,37,3) (47,33,6) (49,35,3)
+   Coada 1      Asteptand la coada:  (4,32,4)
+      In curs de procesare: 6  Timp de finalizare: 33
+   Coada 2      Asteptand la coada:  (25,32,5)
+      In curs de procesare: 20  Timp de finalizare: 33
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 33
+Clienti in asteptare:  (24,35,6) (33,35,1) (35,36,1) (42,35,4) (46,37,3) (49,35,3)
+   Coada 1      Asteptand la coada:  (16,33,5)
+      In curs de procesare: 4  Timp de finalizare: 37
+   Coada 2      Asteptand la coada:  (47,33,6)
+      In curs de procesare: 25  Timp de finalizare: 38
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 34
+Clienti in asteptare:  (24,35,6) (33,35,1) (35,36,1) (42,35,4) (46,37,3) (49,35,3)
+   Coada 1      Asteptand la coada:  (16,33,5)
+      In curs de procesare: 4  Timp de finalizare: 37
+   Coada 2      Asteptand la coada:  (47,33,6)
+      In curs de procesare: 25  Timp de finalizare: 38
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 35
+Clienti in asteptare:  (35,36,1) (46,37,3)
+   Coada 1      Asteptand la coada:  (16,33,5)
+      In curs de procesare: 4  Timp de finalizare: 37
+   Coada 2      Asteptand la coada:  (47,33,6)
+      In curs de procesare: 25  Timp de finalizare: 38
+   Coada 3      Asteptand la coada:  (24,35,6)
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada:  (33,35,1) (49,35,3)
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada:  (42,35,4)
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 36
+Clienti in asteptare:  (46,37,3)
+   Coada 1      Asteptand la coada:  (16,33,5) (35,36,1)
+      In curs de procesare: 4  Timp de finalizare: 37
+   Coada 2      Asteptand la coada:  (47,33,6)
+      In curs de procesare: 25  Timp de finalizare: 38
+   Coada 3      Asteptand la coada:  (24,35,6)
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada:  (33,35,1) (49,35,3)
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada:  (42,35,4)
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 37
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada:  (35,36,1)
+      In curs de procesare: 16  Timp de finalizare: 42
+   Coada 2      Asteptand la coada:  (47,33,6)
+      In curs de procesare: 25  Timp de finalizare: 38
+   Coada 3      Asteptand la coada:  (24,35,6)
+      In curs de procesare: 8  Timp de finalizare: 38
+   Coada 4      Asteptand la coada:  (33,35,1) (49,35,3) (46,37,3)
+      In curs de procesare: 36  Timp de finalizare: 38
+   Coada 5      Asteptand la coada:  (42,35,4)
+      In curs de procesare: 38  Timp de finalizare: 38
+Time: 38
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada:  (35,36,1)
+      In curs de procesare: 16  Timp de finalizare: 42
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada:  (49,35,3) (46,37,3)
+      In curs de procesare: 33  Timp de finalizare: 39
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 42  Timp de finalizare: 42
+Time: 39
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada:  (35,36,1)
+      In curs de procesare: 16  Timp de finalizare: 42
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada:  (46,37,3)
+      In curs de procesare: 49  Timp de finalizare: 42
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 42  Timp de finalizare: 42
+Time: 40
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada:  (35,36,1)
+      In curs de procesare: 16  Timp de finalizare: 42
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada:  (46,37,3)
+      In curs de procesare: 49  Timp de finalizare: 42
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 42  Timp de finalizare: 42
+Time: 41
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada:  (35,36,1)
+      In curs de procesare: 16  Timp de finalizare: 42
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada:  (46,37,3)
+      In curs de procesare: 49  Timp de finalizare: 42
+   Coada 5      Asteptand la coada: 
+      In curs de procesare: 42  Timp de finalizare: 42
+Time: 42
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 35  Timp de finalizare: 43
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 46  Timp de finalizare: 45
+Time: 43
+Clienti in asteptare: 
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 47  Timp de finalizare: 44
+   Coada 3      Asteptand la coada: 
+      In curs de procesare: 24  Timp de finalizare: 44
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 46  Timp de finalizare: 45
+Time: 44
+Clienti in asteptare: 
+   Coada 4      Asteptand la coada: 
+      In curs de procesare: 46  Timp de finalizare: 45
+Time: 45
+Clienti in asteptare: 
+Simulation stopped
+Average waiting time: 4.64
+Average service time: 3.68
+Peak time interval: [36,37]

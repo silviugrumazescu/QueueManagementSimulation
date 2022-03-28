@@ -1,0 +1,91 @@
+Simulation started
+Time: 0
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3) (4,2,2)
+Time: 1
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3) (4,2,2)
+Time: 2
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 4  Timp de finalizare: 4
+Time: 3
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 4  Timp de finalizare: 4
+Time: 4
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3)
+Time: 5
+Clienti in asteptare:  (1,6,2) (2,28,3) (3,29,3)
+Time: 6
+Clienti in asteptare:  (2,28,3) (3,29,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 8
+Time: 7
+Clienti in asteptare:  (2,28,3) (3,29,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 1  Timp de finalizare: 8
+Time: 8
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 9
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 10
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 11
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 12
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 13
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 14
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 15
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 16
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 17
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 18
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 19
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 20
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 21
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 22
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 23
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 24
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 25
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 26
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 27
+Clienti in asteptare:  (2,28,3) (3,29,3)
+Time: 28
+Clienti in asteptare:  (3,29,3)
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 31
+Time: 29
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 31
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 32
+Time: 30
+Clienti in asteptare: 
+   Coada 1      Asteptand la coada: 
+      In curs de procesare: 2  Timp de finalizare: 31
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 32
+Time: 31
+Clienti in asteptare: 
+   Coada 2      Asteptand la coada: 
+      In curs de procesare: 3  Timp de finalizare: 32
+Time: 32
+Clienti in asteptare: 
+Simulation stopped
+Average waiting time: 2.5
+Average service time: 2.5
+Peak time interval: [29,30]
